@@ -32,6 +32,11 @@
 
 
 
+## 🔧 **Favourites tools**
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F57C00?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-023047?style=for-the-badge&logo=OWASP&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivarsatierf&show_icons=true&theme=transparent)
 
@@ -39,7 +44,7 @@
 
 
 
-Hi, most my usage linguagens
+Hi, most my usage languages
 
 
 
