@@ -1,4 +1,3 @@
-![github-header-image.png](https://i.postimg.cc/k5rJsdQy/github-header-image.png)
 # Ivar Satierf
 ### New Account
 ### 🏴‍☠️ RED TEAM                                                                                                
